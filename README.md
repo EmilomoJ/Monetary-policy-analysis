@@ -90,6 +90,8 @@ SQL queries were used to prepare and analyse the datasets. Key techniques includ
 ## Python Data Analysis
 
 Python was used for additional statistical analysis and time-series visualization.
+<img width="1400" height="607" alt="image" src="https://github.com/user-attachments/assets/3a15ad8c-25a6-4ab6-add5-b78cdc0ef237" />
+
 
 Libraries used:
 
