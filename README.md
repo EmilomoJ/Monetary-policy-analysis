@@ -1,4 +1,4 @@
-# #  Monetary Policy & Canadian Economic Analysis
+  Monetary Policy & Canadian Economic Analysis
 
 **Author:** Emilomo Joan Atale  
 **Date:** March 2026  
