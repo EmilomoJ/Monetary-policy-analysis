@@ -103,7 +103,8 @@ Python was used to explore trends and relationships between macroeconomic indica
 ---
 
 ## Power BI Dashboard
-<img width="1523" height="852" alt="image" src="https://github.com/user-attachments/assets/a2d4c223-0406-43e3-838d-7ce2af9bfa80" />
+<img width="1070" height="595" alt="image" src="https://github.com/user-attachments/assets/07ebf980-d4a8-4ae9-bdb7-6254cff47ccf" />
+ 
 
 
 An interactive Power BI dashboard was developed to visualize relationships between interest rates and macroeconomic indicators.
